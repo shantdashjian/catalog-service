@@ -7,6 +7,7 @@ The catalog service of the Cloud Native Bookshop I'm building, while studying wi
 
 ## System Design
 
+![System Design](images/system-design.png)
 
 ## Technologies Used
 1. [Spring Boot](https://spring.io/projects/spring-boot/)
