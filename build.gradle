@@ -38,6 +38,7 @@ dependencies {
     implementation 'org.yaml:snakeyaml:2.0'
     implementation 'org.springframework.cloud:spring-cloud-starter-config'
     implementation 'org.springframework.retry:spring-retry'
+    implementation 'org.flywaydb:flyway-core'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'org.testcontainers:postgresql'
     annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
